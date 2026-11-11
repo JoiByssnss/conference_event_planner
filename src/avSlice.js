@@ -10,26 +10,26 @@ export const avSlice = createSlice({
 		quantity: 0,
 	},
     {
-		img: "https://pixabay.com/images/download/speakers-4109274_640.jpg",
+		img: "https://cdn.pixabay.com/photo/2017/02/21/18/58/speakers-2087115_1280.jpg",
 		name: "Speaker",
 		cost: 35,
 		quantity: 0,
     },
     {
-		img: "https://pixabay.com/images/download/public-speaking-3926344_640.jpg",
+		img: "https://cdn.pixabay.com/photo/2015/02/06/22/08/microphone-626618_1280.jpg",
 		name: "Microphones",
 		cost: 45,
 		quantity: 0,
     },
     {
-		img: "https://pixabay.com/images/download/whiteboard-2903269_640.png",
+		img: "https://cdn.pixabay.com/photo/2021/06/03/17/34/whiteboard-6307590_1280.jpg",
 		name: "Whiteboards",
 		cost: 80,
 		quantity: 0,
     },
 
     {
-		img: "https://pixabay.com/images/download/signpost-235079_640.jpg",
+		img: "https://cdn.pixabay.com/photo/2016/03/05/22/34/abstract-1239321_1280.jpg",
 		name: "Signage",
 		cost: 80,
 		quantity: 0,
